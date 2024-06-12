@@ -1,10 +1,10 @@
-//Choose colors as u wish
+
 *{
     margin:0;
     padding:0;
     box-sizing:border-box;
 }
-//optional if u didn't added the previous optional
+
 .spinner {
     width: 3em;
     height: 3em;
@@ -31,7 +31,7 @@
       transform: rotate(360deg);
     }
   }
-//end of optional
+
   body {
     background-color: #01121f;
     color: white;
